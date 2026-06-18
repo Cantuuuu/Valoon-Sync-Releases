@@ -13,7 +13,6 @@
 `Windows 10+`
 
 </div>
-
 </div>
 
 ---
@@ -51,6 +50,22 @@
 
 > 💡 **Don't have a Valoon account yet?**
 > Start a **[free demo at valoon.chat](https://valoon.chat)** and see what ValoonSync can do for you.
+
+---
+
+## 🧩 More than Sync: explore the Valoon Marketplace
+
+ValoonSync is just one piece of a growing ecosystem. Valoon is building out a **[Marketplace](https://marketplace.valoon.crucerlabs.com/es)** of apps and integrations that extend what you can do with your projects — and yes, **ValoonSync itself is listed there too**.
+
+A couple of things already live (or coming soon) in the catalog:
+
+- 🤖 **Valoon MCP** — manage your projects by chatting with AI (Claude, ChatGPT, Gemini, or any MCP-compatible client).
+- 💬 **Valoon Chat** — ask questions about your projects, tickets, and hours, straight from a chat interface.
+- 🔌 Plus more integrations in the pipeline (WhatsApp notifications, timesheets, Drive sync, Excel/DATEV export, and more).
+
+If you're curious about what else connects to Valoon — or want to bring your own integration to the marketplace — take a look:
+
+### 👉 [Explore the Valoon Marketplace](https://marketplace.valoon.crucerlabs.com/es)
 
 ---
 
